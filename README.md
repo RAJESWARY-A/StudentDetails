@@ -1,1 +1,2 @@
 # StudentDetails
+This project is a simple Student Registation Application built using JDBC for database connectivity. It allows users to add, update, delete and view student records, including fields like Student ID, name, age, gender, and marks. The application provides a menu-driven interface for performing operations, such as retrieving all students or a specific student by ID. The database operations are handled using basic-SQL queries integrated with java.
